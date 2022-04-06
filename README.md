@@ -1,5 +1,5 @@
 
 
-👋 I'm a web developer based somewhere inbetween Athens and Barcelona.
+👋 Web developer based in Athens.
 
 💻 I primarily work with React, Gatsby, Contentful, Strapi, MongoDB and Express.
